@@ -151,3 +151,9 @@ If you would rather symbolically link those configuration files to the activated
     >     /etc/init.d/httpd restart
 
 You have successfully configured ModSecurity.
+
+
+My Linode is on Server version: Apache/2.2.22 (Ubuntu). I think in this case: libapache2-modsecurity must be installed. It the configuration details the same in this case?
+
+
+
